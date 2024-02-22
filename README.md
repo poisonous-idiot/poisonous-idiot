@@ -9,13 +9,13 @@
  
 <div align="center">
  
-🔭 I'm currently working on **Front-end Web Development**
+🔭 I'm currently working on **Cyber Security**
  
-🌱 I'm currently learning on **JS, React.JS**
+🌱 I'm currently learning **Development**
  
-💬 Ask me about **JS, React.JS, Wordpress Development....or any other thing [here](https://poisonous-idiot.github.io/Profolio/)**
+💬 Ask me about **Programming, Cyber security....or any other thing [here](https://poisonous-idiot.github.io/Profolio/)**
  
-⚡ Fun fact **I turn coffee into code!**
+⚡ Fun fact **I want to connect with hackers!**
  
 </div>
 <div align="center">
