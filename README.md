@@ -13,13 +13,13 @@
  
 🌱 I'm currently learning **Development**
  
-💬 Ask me about **Programming, Cyber security....or any other thing [here](vardaali282@gmail.com)**
+💬 Ask me about **Programming, Cyber security....or any other thing [here](https://www.linkedin.com/in/varda-ali/)**
  
 ⚡ Fun fact **I want to connect with hackers!**
  
 </div>
 <div align="center">
-<a href=" ">
+<a href="vardaali282@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/varda-ali/">
