@@ -19,7 +19,7 @@
  
 </div>
 <div align="center">
-<a href="vardaali282@gmail.com">
+<a href="mailto:<Varda Ali>vardaali282@gmail.com?subject=Email">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/varda-ali/">
